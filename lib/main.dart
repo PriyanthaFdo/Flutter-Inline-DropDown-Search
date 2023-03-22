@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inline_dropdown/dropdownPage.dart';
+import 'package:inline_dropdown/dropdown_page.dart';
 
 void main() {
   runApp(const DropDownRD());
